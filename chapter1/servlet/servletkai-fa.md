@@ -20,13 +20,9 @@ Servlet api并不在java se的api里面
 
 ![](/assets333/import.png)![](/assets444/import.png)
 
+---
 
-
-
-
-
-
-
+2. 通过generic servlet实现：仅需了解
 
 
 
