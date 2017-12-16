@@ -4,11 +4,7 @@ tomcat其实就是java写的软件，类似于增强了socket的连接（myserve
 
 
 
-
-
-
-
-
+很重要的概念： URL和URI并不一样![](/URL/import.png)
 
 ---
 
