@@ -6,5 +6,5 @@
   * [web服务器](chapter1/webfu-wu-qi.md)
     * [tomcat](chapter1/webfu-wu-qi/tomcat.md)
       * [web应用](chapter1/webfu-wu-qi/tomcat/webying-yong.md)
-      * [配置虚拟目录](chapter1/webfu-wu-qi/tomcat/pei-zhi-xu-ni-mu-lu.md)
+      * [配置虚拟目录和域名](chapter1/webfu-wu-qi/tomcat/pei-zhi-xu-ni-mu-lu.md)
 
