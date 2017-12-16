@@ -2,13 +2,11 @@
 
 在&lt;host&gt;间添加 &lt;Context path="/web" docBase="虚拟目录位置（绝对路劲）"&gt;；
 
-
-
 ---
 
 ---
 
-
+更改主页，需要在WEB-INF下的web.xml中修改 &lt;welcome first list&gt;
 
 
 
