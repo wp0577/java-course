@@ -8,4 +8,6 @@
       * [web应用](chapter1/webfu-wu-qi/tomcat/webying-yong.md)
       * [配置虚拟目录和域名](chapter1/webfu-wu-qi/tomcat/pei-zhi-xu-ni-mu-lu.md)
   * [servlet](chapter1/servlet.md)
+    * [servlet和tomcat的关系](chapter1/servlet/servlethe-tomcat-de-guan-xi.md)
+    * [servlet开发](chapter1/servlet/servletkai-fa.md)
 

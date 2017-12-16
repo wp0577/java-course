@@ -6,5 +6,7 @@ java开发动态网页--servlet
 
 ![](/servlet/import.png)
 
-applet是java客户端小程序，而servlet是java服务器端小程序。
+applet是java客户端小程序，而servlet是java服务器端小程序\(java程序，java类\)，。
+
+
 
