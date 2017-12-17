@@ -11,4 +11,5 @@
     * [servlet和tomcat的关系](chapter1/servlet/servlethe-tomcat-de-guan-xi.md)
     * [servlet开发](chapter1/servlet/servletkai-fa.md)
     * [Servlet生命周期](chapter1/servlet/servletsheng-ming-zhou-qi.md)
+    * [IDE开发Servlet](chapter1/servlet/idekai-fa-servlet.md)
 

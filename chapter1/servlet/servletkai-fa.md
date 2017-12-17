@@ -2,7 +2,7 @@
 
 1. 实现Servlet接口
 2. 通过继承 GenericServlet
-3. 通过继承 HttpServlet
+3. **通过继承 HttpServlet 重点**
 
 Servlet api并不在java se的api里面
 
@@ -23,6 +23,20 @@ Servlet api并不在java se的api里面
 ---
 
 2. 通过generic servlet实现：仅需了解
+
+---
+
+3. 通过HttpServlet 的方法实现
+
+代码实现如下：![](/assets66/import.png)
+
+---
+
+post和get的区别在于post会将用户输入的参数隐藏，而get会将所有信息都放在URL栏中。
+
+![](/assets77/import.png)
+
+
 
 
 
