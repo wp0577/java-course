@@ -7,6 +7,7 @@
     * [tomcat](chapter1/webfu-wu-qi/tomcat.md)
       * [web应用](chapter1/webfu-wu-qi/tomcat/webying-yong.md)
       * [配置虚拟目录和域名](chapter1/webfu-wu-qi/tomcat/pei-zhi-xu-ni-mu-lu.md)
+      * [tomcat与IDE](chapter1/webfu-wu-qi/tomcat/tomcatyu-ide.md)
   * [servlet](chapter1/servlet.md)
     * [servlet和tomcat的关系](chapter1/servlet/servlethe-tomcat-de-guan-xi.md)
     * [servlet开发](chapter1/servlet/servletkai-fa.md)
@@ -14,4 +15,7 @@
     * [IDE开发Servlet](chapter1/servlet/idekai-fa-servlet.md)
     * [servlet细节](chapter1/servlet/servletxi-jie.md)
     * [Servlet实例](chapter1/servlet/servletshi-li.md)
+    * [Http细节](chapter1/servlet/httpxi-jie.md)
+    * [session预热](chapter1/servlet/sessionyu-re.md)
+    * [中文乱码问题](chapter1/servlet/zhong-wen-luan-ma-wen-ti.md)
 
