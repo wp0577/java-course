@@ -4,6 +4,10 @@
 
 js事件：写函数前要确定事件，例如onclick onload  onsubmit等。
 
+在函数内用var定义，那么它是局部变量，如果没用var则是全局变量。
+
+
+
 ---
 
 ```js
@@ -159,36 +163,28 @@ Html部分代码：
 4.代码实现
 Javascript部分代码：
 <sctript>
-	function showTips(id,info){
-		//获取span元素，给出提示信息
-		document.getElementById(id+"span").innerHTML="<font color='gray'>"+info+"</font>";
-	}
-	
-	function check(id,info){
-		//获取用户输入的数据
-		var uValue = document.getElementById(id).value;
-		//进行判断
-		if(uValue==""){
-			//在span位置给出错误提示信息
-			document.getElementById(id+"span").innerHTML="<font color='red'>"+info+"</font>";
-		}else{
-			document.getElementById(id+"span").innerHTML="";
-		}
-	}
-	
+    function showTips(id,info){
+        //获取span元素，给出提示信息
+        document.getElementById(id+"span").innerHTML="<font color='gray'>"+info+"</font>";
+    }
+
+    function check(id,info){
+        //获取用户输入的数据
+        var uValue = document.getElementById(id).value;
+        //进行判断
+        if(uValue==""){
+            //在span位置给出错误提示信息
+            document.getElementById(id+"span").innerHTML="<font color='red'>"+info+"</font>";
+        }else{
+            document.getElementById(id+"span").innerHTML="";
+        }
+    }
+
 </script>
 
 Html部分代码
 <input type="text" name="user" id="user" onfocus="showTips('user','用户名必须以字母开头！')" onblur="check('user','用户名不能为空！')"/><span id="userspan"></span>
-
-
 ```
-
-
-
-
-
-
 
 
 
