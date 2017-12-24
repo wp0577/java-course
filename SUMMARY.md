@@ -26,4 +26,8 @@
   * [HTML](chapter1/html.md)
   * [CSS](chapter1/css.md)
   * [javascript](chapter1/javascript.md)
+    * [HTML DOM树](chapter1/javascript/html-domshu.md)
+    * [js案例](chapter1/javascript/jsan-li.md)
+  * [JQuery](chapter1/jquery.md)
+  * [ajax](chapter1/ajax.md)
 
