@@ -1,6 +1,6 @@
 ```
 什么是jquery：
- 
+
 Jquery它是javascript的一个轻量级框架，对javascript进行封装，它提供了很多方便的选择器。供你快速定位到需要操作的元素上面去。还提供了很多便捷的方法。
 
 怎么使用jquery：
@@ -13,7 +13,7 @@ Jquery的简单入门：
 
 所有的jquery代码写在页面加载函数
 $(function(){
-	Jquery代码
+    Jquery代码
 });
 ```
 
