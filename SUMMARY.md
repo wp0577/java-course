@@ -31,4 +31,6 @@
   * [JQuery](chapter1/jquery.md)
   * [ajax](chapter1/ajax.md)
   * [JSP](chapter1/jsp.md)
+    * [运行原理](chapter1/jsp/yun-xing-yuan-li.md)
+    * [jsp的语法](chapter1/jsp/jspde-yu-fa.md)
 
