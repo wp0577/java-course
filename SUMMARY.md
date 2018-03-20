@@ -5,6 +5,8 @@
   * [mvc](mvc.md)
   * [Structs2](structs2.md)
     * [概念](structs2/gai-nian.md)
+    * [架构](structs2/jia-gou.md)
+    * [配置](structs2/pei-zhi.md)
 * [JavaWeb](chapter1.md)
   * [web开发简介](chapter1/webkai-fa-jian-jie.md)
   * [web服务器](chapter1/webfu-wu-qi.md)
