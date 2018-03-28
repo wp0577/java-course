@@ -10,6 +10,7 @@
   * [Spring](spring.md)
     * [Spring是什么](spring/springshi-shi-yao.md)
     * [配置Spring](spring/pei-zhi-spring.md)
+    * [bean的生命周期](spring/beande-sheng-ming-zhou-qi.md)
 * [JavaWeb](chapter1.md)
   * [web开发简介](chapter1/webkai-fa-jian-jie.md)
   * [web服务器](chapter1/webfu-wu-qi.md)
