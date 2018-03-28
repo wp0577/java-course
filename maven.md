@@ -9,20 +9,15 @@
    。
 4. Maven主要做了两件事：
 
-* 统一开发规范与工具
-* 统一管理jar包
+5. 统一开发规范与工具
 
-
+6. 统一管理jar包
 
 **pom.xml**，这是Maven的核心配置文件，pom称为Project Object Model（**项目对象模型**），它用于描述整个Maven项目，所以也称为Maven描述文件。
-
-
 
 [https://blog.csdn.net/qq\_27093465/article/details/63683873](https://blog.csdn.net/qq_27093465/article/details/63683873 " IntelliJ IDEA 创建 hello world Java web Maven")
 
 [https://blog.csdn.net/qq\_27093465/article/details/68961393](https://blog.csdn.net/qq_27093465/article/details/68961393 "https://blog.csdn.net/qq\_27093465/article/details/68961393")
-
-
 
 ---
 
@@ -33,4 +28,10 @@ Artifact 是maven中的一个概念，表示某个module要如何打包。这又
 一个module有了 Artifacts 就可以部署到应用服务器中了！
 
 [https://blog.csdn.net/qq\_27093465/article/details/76091287](https://blog.csdn.net/qq_27093465/article/details/76091287)
+
+想在哪新建Java class，就给设置为src.
+
+[https://blog.csdn.net/qq\_27093465/article/details/52912444](https://blog.csdn.net/qq_27093465/article/details/52912444 " IntelliJ IDEA 中 右键新建时，选项没有Java class的解决方法和具体解释")
+
+[spring framework体系结构及内部各模块jar之间的maven依赖关系](https://blog.csdn.net/qq_27093465/article/details/65660689)
 
