@@ -1,2 +1,2 @@
-![](/life/import.png)
+![](/life/import.png) 
 
